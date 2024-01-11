@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working as Full Stack Developer @[Geta.ai Labs Pvt. Ltd.](https://www.linkedin.com/company/getaailabs/) 😅
+- 🔭 I’m currently working as Full Stack Developer @[Geta.ai Labs Pvt. Ltd.](https://www.linkedin.com/company/getaailabs/) 
 
 - 📄 This is [My Resume](https://drive.google.com/file/d/1F4mUa4rSAD-FY_86nBLjpoLVTgPi8p-q/view?usp=sharing)
 - 📫 How to reach me: ...*abhishekwaghmare76@gmail.com*
