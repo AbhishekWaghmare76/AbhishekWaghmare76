@@ -28,37 +28,7 @@
 <!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
 
-<img align="right"  src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47fklx5ykmro4e4phgv5xp0y597wwzq4c3tv66cnqi&rid=giphy.gif&ct=g">
 
-
-  <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbhishekWaghmare76" alt="AbhishekWaghmare76" /></a></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<p align='center'>
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
-
-
-<!-- <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif"> -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
- <h2> 📊 Github Stats ....</h2>
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhishekWaghmare76&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhishekWaghmare76&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhishekWaghmare76&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhishekWaghmare76&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhishekWaghmare76&theme=solarized_dark&utcOffset=8">
-
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
