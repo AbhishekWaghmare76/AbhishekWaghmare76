@@ -28,11 +28,6 @@
 <!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
 
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 <h2 align="left"> 💻 Languages and Tools:</h2>
 
 <table align="center">
@@ -139,16 +134,6 @@
     </td> -->
 </tr>
 </table>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 My Github Stats
-
-<p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=AbhishekWaghmare76&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekWaghmare76&theme=algolia" />
-</p>
 
 
 
